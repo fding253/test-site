@@ -1,5 +1,5 @@
 ---
 title: moo
-layout: page
+layout: default
 ---
 Hello, world
